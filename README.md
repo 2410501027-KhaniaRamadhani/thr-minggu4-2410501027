@@ -1,4 +1,4 @@
-Halal Tracker App - THR Minggu 4 State Management
+> Halal Tracker App - THR Minggu 4 State Management
 
 - Nama : Khania Ramadhani Fitri
 - NIM : 2410501027
@@ -26,4 +26,4 @@ Hooks yang Digunakan
 ![alt text](screenshoots/home-screen.png)
 ![alt text](screenshoots/stats-screen.png)
 ## Cara Menjalankan
-npm install && npm start
+npm install && npm startAda di folder screenshot directory vscode
